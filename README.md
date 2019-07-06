@@ -1,7 +1,7 @@
 # vim-pwsh-formatter
 Poor man's vim powershell code formatter.
 
-Uses https://github.com/PowerShell/PSScriptAnalyzer `Invoke-Formatter` function to format buffer.
+### WRAPPER: Uses https://github.com/PowerShell/PSScriptAnalyzer `Invoke-Formatter` function to format buffer.
 
 ## System Requirements:
 * Powershell Core : https://github.com/PowerShell/PowerShell#get-powershell
