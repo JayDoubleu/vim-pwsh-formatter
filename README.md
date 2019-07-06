@@ -24,7 +24,7 @@ From vim:
 :PWSHFORMAT
 ```
 
-Or map to key:
+Or map to key in your .vimrc or init.vim :
 ```
 autocmd FileType ps1 noremap <F5> :PWSHFORMAT<CR>
 ```
