@@ -28,6 +28,11 @@ Or map to key:
 ```
 autocmd FileType ps1 noremap <F5> :PWSHFORMAT<CR>
 ```
+
+## Tweaking:
+This is using default `Invoke-Formatter` settings.
+Edit [plugin/format.ps1#L99-L100](plugin/format.ps1#L99-L100) and [plugin/format.ps1#L17-L97](plugin/format.ps1#L17-L97) to customise. 
+
 ## Recommended plugins
 
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot) for syntax highlighting 
